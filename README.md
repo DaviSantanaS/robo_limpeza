@@ -2,10 +2,6 @@
 
 Este projeto implementa um robô de limpeza em um mapa 8x8 utilizando a linguagem Prolog. O robô é capaz de se mover pelo mapa, evitar obstáculos e limpar pontos sujos até atingir seu destino.
 
-## Descrição da Atividade
-
-Postado: 15 de jun. de 2023 (editado: 14 de jul. de 2023)
-
 ### Objetivo
 
 Implementar um programa em Prolog que simule um robô para limpeza de uma sala. A sala deve ser representada como uma matriz (tabuleiro) previamente mapeada.
